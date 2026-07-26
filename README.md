@@ -144,7 +144,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gaurannggg7/gaurannggg7/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+![](https://raw.githubusercontent.com/gauranggg7/gauranggg7/output/dist/github-contribution-grid-snake.svg)
 
 </div>
 
