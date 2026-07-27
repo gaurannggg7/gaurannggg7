@@ -140,13 +140,6 @@
 ---
 
 <!-- ====================== SNAKE ====================== -->
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/gauranggg7/gauranggg7/output/dist/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
