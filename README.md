@@ -32,7 +32,7 @@ I'm a Computer Science graduate from **Arizona State University**, focused on **
 - **Open to:** Software Engineer, Backend, Full-Stack, and Applied AI roles. Open to relocating across the U.S.
 
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg0a3dvenVtdWQ2NzJpZXpqcGs2cmJyejN4ZHVmeGZ1Ymhmcmw3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNK2rnzqXupoIgl2BA/giphy.gif" width="240" alt="Zoro animation" />
+
 </div>
 
 ---
